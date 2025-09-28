@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%!&fontColor=8A9296)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%!&fontColor=1292EE)
   
 </div>
 
@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/Bambulab-00AE42?style=flat-square&logo=Bambulab&logoColor=white"/>
   <br/>
   <br/>
-  
-  ![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
+![](./profile-3d-contrib/profile-green-animate.svg)
