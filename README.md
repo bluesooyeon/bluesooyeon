@@ -61,9 +61,6 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesooyeon)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluesooyeon)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
