@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Bambulab-00AE42?style=flat-square&logo=Bambulab&logoColor=white"/>
   <br/>
   <br/>
+  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
