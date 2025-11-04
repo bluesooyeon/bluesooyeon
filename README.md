@@ -10,6 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a AI Researcher from South Korea.<br/>
+  #### 🕵️‍♀️ Research Interests: Object Detection, Syn2Real Generalization, Agentic AI, AI-based Battlefield Situation Awareness <br/>
   #### :muscle: Committed to building, breaking, and rebuilding better.<br/>
   #### :mortar_board: Bachelor of Science in Mathematics, Dongguk University
   #### :running: M.S. Candidate in Department of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology (GIST)
